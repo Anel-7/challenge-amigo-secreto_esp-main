@@ -14,8 +14,11 @@ Este es un proyecto desarrollado en JavaScript para hacer el juego del Amigo Sec
 📁 Estructura del proyecto
 
 ├── index.html         # Interfaz básica del usuario
+
 ├── style.css          # Estilos
+
 ├── script.js          # Lógica del sorteo en JavaScript
+
 └── README.md          # Este archivo
 
 🧠 Lógica del sorteo
